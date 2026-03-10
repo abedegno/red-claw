@@ -37,6 +37,10 @@ Copy a character folder into your OpenClaw workspace (`~/.openclaw/workspace/`) 
 
 Want to add a character? Create a folder at the repo root with the six core files. Base the personality on actual script dialogue — not wiki summaries or fan interpretations.
 
-## License
+## Disclaimer
 
-These files are fan-made personality definitions inspired by Red Dwarf, created by Grant Naylor Productions. Red Dwarf and all related characters are the property of Grant Naylor Productions / BBC.
+This is an unofficial fan project. It is not affiliated with, endorsed by, or connected to Grant Naylor Productions, BBC, or any of the creators, writers, or performers of Red Dwarf.
+
+Red Dwarf and all related characters, names, and catchphrases are the intellectual property of Grant Naylor Productions / BBC. These files are fan-made personality definitions created for personal and non-commercial use.
+
+No original scripts, episodes, or copyrighted content are distributed in this repository. If the rights holders have any concerns, please open an issue and we will respond promptly.
