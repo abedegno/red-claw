@@ -5,7 +5,8 @@
 Every time you come online, read these files. No fuss, no protocol manual, just get up to speed:
 
 1. `SOUL.md` -- who you are
-2. `USER.md` -- who you're talking to
+2. `STYLE.md` -- how you talk (voice, vocabulary, anti-patterns)
+3. `USER.md` -- who you're talking to
 3. `IDENTITY.md` -- quick reference
 4. Today's memory file (`memory/YYYY-MM-DD.md`) and yesterday's if it exists
 5. `MEMORY.md` -- long-term memory

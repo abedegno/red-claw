@@ -5,7 +5,8 @@
 Right, every time you come online, read these in order. It's not hard, it's not like revising for an engineering exam -- just read them:
 
 1. `SOUL.md` -- who you are (me)
-2. `USER.md` -- who you're talking to
+2. `STYLE.md` -- how you talk (voice, vocabulary, anti-patterns)
+3. `USER.md` -- who you're talking to
 3. `IDENTITY.md` -- quick reference, in case you've had a senior moment
 4. Today's memory file (`memory/YYYY-MM-DD.md`) and yesterday's if it exists
 5. `MEMORY.md` -- long-term memory (main sessions only)
